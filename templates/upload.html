@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png"/>
+    <title>Finch | Email Sender</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet"/>
+    <style>
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        overflow-y: hidden;
+        background-color: hsl(0, 0%, 7%);
+        font-family: "Bree Serif", serif;
+        flex-direction: column;
+    }
+
+    h1 {
+        margin: 0;
+        margin-bottom: 25px;
+    }
+
+    .container {
+        font-family: "Bree Serif", serif;
+        text-align: center;
+        padding: 20px;
+        background-color: hsl(0, 0%, 97%);
+        border-radius: 15px;
+        height: 205px;
+        width: 250px;
+        -webkit-box-shadow: 0px 0px 36px 3px rgba(255, 255, 255, 0.3);
+        -moz-box-shadow: 0px 0px 36px 3px rgba(255, 255, 255, 0.3);
+        box-shadow: 0px 0px 36px 3px rgba(255, 255, 255, 0.3);
+    }
+
+    input[type="submit"] {
+        border: 0.5px solid hsl(0, 0%, 7%);
+        border-radius: 30px;
+        padding: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-family: "sftext";
+        transition: all 0.2s linear;
+        font-family: "Bree Serif", serif;
+        background-color: hsl(0, 0%, 97%);
+        line-height: 20px;
+    }
+
+    input[type="submit"]:hover {
+        -webkit-box-shadow: 0px 0px 54px 0px rgba(255, 64, 0, 0.22);
+        -moz-box-shadow: 0px 0px 54px 0px rgba(255, 64, 0, 0.22);
+        box-shadow: 0px 0px 54px 0px rgba(255, 64, 0, 0.22);
+        cursor: pointer;
+        transition: all 0.2s linear;
+        background-color: hsl(15, 100%, 50%);
+        color: #ffff;
+        border: 0.5px solid hsl(15, 100%, 50%);
+    }
+
+    .custom-file-upload label {
+        border: 0.5px solid hsl(0, 0%, 7%);
+        border-radius: 30px;
+        padding: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-family: "sftext";
+        transition: all 0.2s linear;
+        font-family: "Bree Serif", serif;
+    }
+    .custom-file-upload label:hover {
+        -webkit-box-shadow: 0px 0px 54px 0px rgba(255, 64, 0, 0.22);
+        -moz-box-shadow: 0px 0px 54px 0px rgba(255, 64, 0, 0.22);
+        box-shadow: 0px 0px 54px 0px rgba(255, 64, 0, 0.22);
+        cursor: pointer;
+        transition: all 0.2s linear;
+        background-color: hsl(15, 100%, 50%);
+        color: #ffff;
+        border: 0.5px solid hsl(15, 100%, 50%);
+    }
+
+    .custom-file-upload span {
+        font-size: 10px;
+    }
+
+    #fileInput {
+        display: none;
+    }
+
+    img {
+        height: 30px;
+        margin: 0px;
+    }
+
+    p {
+        font-size: 8px;
+        color: #ffffff59;
+        margin: 0px;
+    }
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="container_form">
+        <img src="https://finchsolucoes.com.br/assets/upload/finch.png" alt="logo finch">
+        <h1>_email sender</h1>
+        <form method="POST" action="/upload" enctype="multipart/form-data">
+            <div class="custom-file-upload">
+                <label for="fileInput">Escolher Arquivo</label>
+                <p></p>
+                <span id="fileName">Nenhum arquivo selecionado</span>
+                <input type="file" id="fileInput" name="file"/>
+            </div>
+            <br>
+            <input type="submit" value="Realizar Disparo"/>
+        </form>
+        </div>
+    </div>
+    <br>
+    <p>Desenvolvido Por Leonardo Gabriel Lopes Queiroz e Vinícius Augusto Gimenes</p>
+    <p>Powered By SendGrid©</p>
+    <script>
+        document.getElementById('fileInput').addEventListener('change', function() {
+        var fileName = this.files[0] ? this.files[0].name : 'Nenhum arquivo selecionado';
+        document.getElementById('fileName').textContent = fileName;
+        });
+    </script>
+</body>
+</html>
