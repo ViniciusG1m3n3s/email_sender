@@ -1,0 +1,610 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:41:13] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:41:13] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:41:13] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:41:13] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=o5UdoXdzmyjgdJg1ngoC HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:42:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:42:12] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:42:12] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:42:12] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=7krVOJRw9SWXcMmLRnY4 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:43:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:43:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:43:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:43:31] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:43:31] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:43:31] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:43:31] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=wG5gAZg7pS0wt84scTBu HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:36] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:36] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:36] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:38] "[31m[1mGET /upload HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:54] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:54] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:54] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:46:54] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=qjKG0RjmC8Hud7Sua10f HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:49:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:49:17] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:49:17] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:49:23] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:49:23] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:49:23] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:49:23] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png&s=qjKG0RjmC8Hud7Sua10f HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:51:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:51:21] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:51:21] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:51:26] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:51:26] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:51:26] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:51:26] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=DrJ5mWRI32Lpjpx1Bw77 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:53:05] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:53:05] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:53:05] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:53:05] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=so4MVslmOO3e3lJMv4XP HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:56:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:56:37] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:56:37] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 18:56:42] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:00:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:00:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:00:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:01:01] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:01:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:01:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:01:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:01:33] "[31m[1mPOST /upload HTTP/1.1[0m" 400 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug: * Detected change in '/Users/leonardolopes/PycharmProjects/email_sender/envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug: * Detected change in '/Users/leonardolopes/PycharmProjects/email_sender/envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:09:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:09:56] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:09:56] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:09:56] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:09:56] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=GxSkPy4U0wrIGhzjbKNB HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:14:07] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:14:07] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:14:07] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:14:07] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=biRRUEn8Dbyle2xbQRoG HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:15:18] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:15:18] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:15:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:16:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:16:10] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:16:10] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:16:10] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:16:10] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=G7LeDusO6T9FqDjZ9Bl2 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/leonardolopes/PycharmProjects/email_sender/envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:17:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:17:44] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:17:44] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:17:44] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:17:44] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=kPB3VEnJoxWX7AIHoaUN HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:19:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:19:56] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:19:56] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:19:56] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:19:56] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=lopSV3b35YDHrmrdNnkY HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:21:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:21:39] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:21:39] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:21:39] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:21:39] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=t1x7SNKDOJ3Mp9Ns53Ir HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:23:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:23:20] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:23:20] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:23:20] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:23:20] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=ODsdxRfp7PzjZ6YNUFpH HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/leonardolopes/PycharmProjects/email_sender/envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:25:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:25:34] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:25:34] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:25:34] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:25:34] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=HNUwaN5EhCBAbPcrSzs4 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:27:33] "GET / HTTP/1.1" 200 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para leo-gu@hotmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para viniciusagimenes@gmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para leobiel@icloud.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:27:41] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:31:46] "GET / HTTP/1.1" 200 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para leo-gu@hotmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para viniciusagimenes@gmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para leobiel@icloud.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:31:53] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:53:12] "GET / HTTP/1.1" 200 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para leo-gu@hotmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para viniciusagimenes@gmail.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+ERROR:root:Erro ao enviar e-mail para leobiel@icloud.com: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)>
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 19:53:21] "POST /upload HTTP/1.1" 200 -
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 20:50:34] "GET / HTTP/1.1" 200 -
+INFO:root:E-mail enviado para lopesl484@gmail.com
+INFO:root:E-mail enviado para leo-gu@hotmail.com
+INFO:root:E-mail enviado para viniciusagimenes@gmail.com
+INFO:root:E-mail enviado para leobiel@icloud.com
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 20:50:41] "POST /upload HTTP/1.1" 200 -
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:40:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:40:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:40:19] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:42:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:42:23] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:42:30] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:42:30] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:42:30] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:42:30] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=RMtfLarZunrvpcU0IjKq HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:43:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:43:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:43:47] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:43:47] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:43:47] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:43:47] "[36mGET /upload?__debugger__=yes&cmd=resource&f=console.png&s=RMtfLarZunrvpcU0IjKq HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:45:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:45:40] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:46:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:46:32] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:46:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:46:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:47:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:47:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:47:15] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:47:15] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:47:15] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:47:15] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=YQ9DIjbJK1cC3X0Gd29K HTTP/1.1" 200 -
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:01] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:01] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:03] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:12] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:12] "[36mGET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:12] "[36mGET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:50:12] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=hd8QNyQZl4wqqAPFNtPi HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:52:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:52:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 1
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 2
+WARNING:dotenv.main:Python-dotenv could not parse statement starting at line 3
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-260-412
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:53:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:53:08] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:E-mail enviado para lopesl484@gmail.com
+INFO:root:E-mail enviado para leo-gu@hotmail.com
+INFO:root:E-mail enviado para viniciusagimenes@gmail.com
+INFO:root:E-mail enviado para leobiel@icloud.com
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2024 22:53:20] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 09:10:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 09:10:24] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 09:10:24] "[33mGET /assets/images/favicon-32x32.png HTTP/1.1[0m" 404 -
+INFO:root:E-mail enviado para joao.silva@example.com
+INFO:root:E-mail enviado para maria.oliveira@example.com
+INFO:root:E-mail enviado para carlos.santos@example.com
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 09:10:37] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 09:10:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:E-mail enviado para lopesl484@gmail.com
+INFO:root:E-mail enviado para maria.oliveira@example.com
+INFO:root:E-mail enviado para carlos.santos@example.com
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 09:12:14] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 10:27:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 10:27:47] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 10:28:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 10:28:56] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Vinícius Gimenes\\Documents\\email_sender\\envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug: * Detected change in 'c:\\Users\\Vinícius Gimenes\\Documents\\email_sender\\envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:26:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:26:46] "[33mGET /style.css HTTP/1.1[0m" 404 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para maria.oliveira@example.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para carlos.santos@example.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:26:59] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:26:59] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:11] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:19] "[35m[1mPOST /upload HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:19] "GET /upload?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:19] "GET /upload?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:19] "GET /upload?__debugger__=yes&cmd=resource&f=console.png&s=YVd08xSXgMRGr2QjWKPa HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:19] "GET /upload?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para maria.oliveira@example.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para carlos.santos@example.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:36] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:36] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:27:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para maria.oliveira@example.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para carlos.santos@example.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:29:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:29:09] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:29:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:29:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:30:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:30:17] "[33mGET /style.css HTTP/1.1[0m" 404 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para maria.oliveira@example.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para carlos.santos@example.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:30:27] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:30:27] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:31:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:31:29] "[33mGET /style.css HTTP/1.1[0m" 404 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para maria.oliveira@example.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para carlos.santos@example.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:31:38] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:31:38] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Vinícius Gimenes\\Documents\\email_sender\\envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para maria.oliveira@example.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para carlos.santos@example.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:32:47] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:32:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:32:50] "[33mGET /style.css HTTP/1.1[0m" 404 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para viniciusagimenes@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para viniciusnintendista0103@gmail.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:34:07] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:36:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:36:27] "[33mGET /style.css HTTP/1.1[0m" 404 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para viniciusagimenes@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para viniciusnintendista0103@gmail.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:36:40] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:38:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:38:33] "[33mGET /style.css HTTP/1.1[0m" 404 -
+ERROR:root:Erro ao enviar e-mail para lopesl484@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para viniciusagimenes@gmail.com: HTTP Error 401: Unauthorized
+ERROR:root:Erro ao enviar e-mail para viniciusnintendista0103@gmail.com: HTTP Error 401: Unauthorized
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:38:42] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Vinícius Gimenes\\Documents\\email_sender\\envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug: * Detected change in 'c:\\Users\\Vinícius Gimenes\\Documents\\email_sender\\envio_emails.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:41:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:41:00] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:E-mail enviado para lopesl484@gmail.com
+INFO:root:E-mail enviado para viniciusagimenes@gmail.com
+INFO:root:E-mail enviado para viniciusnintendista0103@gmail.com
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:41:09] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 11:41:09] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 12:34:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 12:34:26] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:E-mail enviado para lopesl484@gmail.com
+INFO:root:E-mail enviado para viniciusagimenes@gmail.com
+INFO:root:E-mail enviado para viniciusnintendista0103@gmail.com
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 12:35:05] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 12:35:05] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 12:35:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 12:35:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 284-229-698
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 14:48:40] "GET / HTTP/1.1" 200 -
+INFO:root:E-mail enviado para lopesl484@gmail.com
+INFO:root:E-mail enviado para viniciusagimenes@gmail.com
+INFO:root:E-mail enviado para viniciusnintendista0103@gmail.com
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 14:48:55] "POST /upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2024 14:49:09] "GET / HTTP/1.1" 200 -
